@@ -1,6 +1,6 @@
 // Ajustes de WiFi
-const char *WIFI_SSID = "Maria Martinez";
-const char *WIFI_PASSWORD = "27533683";
+const char *WIFI_SSID = "WIFI";
+const char *WIFI_PASSWORD = "1234";
 
 // Ajustes de MQTT
 const char *MQTT_HOST = "broker.emqx.io";
